@@ -1,4 +1,4 @@
 responsive-image-demo
 =====================
 
-Demo of different reponsive image techniques.
+Demo of different responsive image techniques.
